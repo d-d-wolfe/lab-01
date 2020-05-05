@@ -1,0 +1,13 @@
+* {
+  outline: 1px dotted red;
+  box-sizing: border-box;
+}
+
+nav {
+  width: 960px;
+  height: 100px;
+}
+
+nav p {
+  text-align: center;
+}
